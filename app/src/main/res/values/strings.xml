@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Skeleton</string>
+    <string name="weather_animated">Weather - Transition Animated</string>
+    <string name="weather_alpha">Weather - Transition Alpha</string>
+    <string name="temperature">26 ℃</string>
+    <string name="refresh">Refresh</string>
+</resources>
